@@ -1,0 +1,71 @@
+commit 2e2eee0d22e0667210b24e1e911e4a26ed300533
+Author: B199735-2021 <email_not_provided>
+Date:   Sun Nov 21 23:10:35 2021 +0000
+
+    refine searching limitation
+
+commit e5902a510be7743669c4cad9c34894c4df025f3d
+Author: B199735-2021 <email_not_provided>
+Date:   Sun Nov 21 16:56:49 2021 +0000
+
+    minor reviesion
+
+commit 072d79b9d7cf3aa66d71d55f1c379ec7206b0e2d
+Author: B199735-2021 <email_not_provided>
+Date:   Thu Nov 18 23:56:50 2021 +0000
+
+    limiting sequences
+
+commit fc6ab4ad491b99fdab7d5fc57bc2f41bf8224cbe
+Author: B199735-2021 <email_not_provided>
+Date:   Wed Nov 17 18:35:11 2021 +0000
+
+    using relative file path
+
+commit d4395794ec8675ca214d2687d4fdcfa9ca191aab
+Author: B199735-2021 <email_not_provided>
+Date:   Wed Nov 17 17:53:52 2021 +0000
+
+    error-trap added
+
+commit 49a52e82bb1a6c1299b5dab45cd27e5cfba0b88c
+Author: B199735-2021 <email_not_provided>
+Date:   Wed Nov 17 00:51:43 2021 +0000
+
+    adding restriction option for user
+
+commit d60fa31ae0b9fd219a73dfddd3c725e6c1f6ea7b
+Author: B199735-2021 <email_not_provided>
+Date:   Sat Nov 13 22:30:32 2021 +0000
+
+    Full_Version ready for test
+
+commit a26357d6d56568555d23628b2c7ae7b4f960be4c
+Author: B199735-2021 <email_not_provided>
+Date:   Thu Nov 11 23:20:46 2021 +0000
+
+    wildcard functions added
+
+commit a81b7546a08fe1688e1514db6ab2c72e87dc67a3
+Author: B199735-2021 <email_not_provided>
+Date:   Wed Nov 10 22:08:02 2021 +0000
+
+    transform processes into functions
+
+commit 3e5619110510f5568b393a361aa60a87ae7c61b8
+Author: B199735-2021 <email_not_provided>
+Date:   Sun Nov 7 19:37:13 2021 +0000
+
+    user interactable
+
+commit 29c71d18a9b187285762218d9cfa9f29d36d86fd
+Author: B199735-2021 <email_not_provided>
+Date:   Sat Nov 6 21:33:00 2021 +0000
+
+    finish conservation analysis and motif scanning
+
+commit e71be7d2d2488ef695153cc74dd852da755db3fe
+Author: B199735-2021 <email_not_provided>
+Date:   Tue Nov 2 16:02:08 2021 +0000
+
+    subprocess call command test (sequence download, msa, pullseq, clustalo)
